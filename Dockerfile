@@ -1,3 +1,4 @@
+#Base image is Python 3.8
 FROM python:3.8
 
 # Install curl, node, & yarn
